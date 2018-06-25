@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SIECCW:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/SIECCW_jar</output-path>
+    <root id="archive" name="SIECCW.jar">
+      <element id="module-output" name="SIECCW" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/web/WEB-INF/lib/sqljdbc.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/web/WEB-INF/lib/sqljdbc4.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

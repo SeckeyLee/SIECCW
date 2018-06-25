@@ -1,0 +1,37 @@
+@charset "utf-8";
+/* CSS Document */
+.bottom_box
+{
+	height: 100%;
+	width: 78.1%;
+	margin: 0 auto;
+	overflow:scroll;
+}
+.boxinbox
+{
+	height: 100%;
+	width: 20%;
+	float: left;
+	background: rgba(0,0,255,0.1);
+
+}
+.boxinbox1
+{
+	height: 100%;
+	width: 20%;
+	margin-left: 6%;
+	float: left;
+	background: rgba(0,0,255,0.1);
+}
+.indexlj
+{
+    color: #000;
+}
+.indexlj:hover
+{
+    color: #0ff;
+}
+.indexlj:active
+{
+    color: #0f0;
+}
